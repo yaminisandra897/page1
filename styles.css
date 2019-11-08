@@ -1,0 +1,65 @@
+
+body{
+  margin:0;
+  text-align:center;
+  font-family: 'Montserrat', sans-serif;
+
+
+}
+.top-container{
+  background-color: #61f2f5;
+  position: static;
+
+
+
+
+}
+h1{
+  font-size: 60px;
+  margin-top: 0;
+  font-family: 'Staatliches', cursive;
+
+
+}
+h2{
+  font-family: 'Liu Jian Mao Cao', cursive;
+}
+p{
+  font-family: 'Staatliches', cursive;
+}
+
+.top-container{
+  padding-top: 50px;
+}
+
+.middle-container{
+  background-color: #eae9e9;
+}
+
+.profile{
+  padding: 10px;
+}
+
+
+.stu{
+  text-decoration: underline;
+}
+.spongebob{
+  position: relative;
+  left: 600px;
+  top: 400px;
+}
+.patrick{
+  position: relative;
+  right: 500px;
+  bottom: 0;
+}
+.squidward{
+  position: relative;
+  bottom: 200px;
+  left: 100px;
+
+}
+hr{
+  width: 80%;
+}
